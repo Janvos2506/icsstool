@@ -1,0 +1,7 @@
+LINK_COLOR := #ff0000;
+PAR_WIDTH := 500px;
+
+#menu {
+	width: PAR_WIDTH + 20px;
+	color: LINK_COLOR;
+}
